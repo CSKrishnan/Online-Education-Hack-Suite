@@ -35,6 +35,9 @@ The main objective of this project is to add features to the online meeting plat
       `pip install schedule`
     * execute `python bot2.py`
     * clone the Session bot starter subfolder and run the application.
+
+### Demo
+[https://youtu.be/30zIDbCBNI4](https://youtu.be/30zIDbCBNI4)
   
 ### Sample screenshot
 <img src="https://github.com/CSKrishnan/Online-Education-Hack-Suite/blob/master/Screenshots/fig3.PNG" width="400" height="300">
