@@ -21,11 +21,11 @@ The main objective of this project is to add features to the online meeting plat
     * execute `python board.py` in the command prompt
 2.  Exam Proctor
     * for proctor 
-      * Open chrome extensions - ![chrome://extensions](chrome://extensions)
+      * Open chrome extensions. (chrome://extensions)
       * Turn on developer mode
       * Press load unpacked and select exam-mode-teacher subfolder
     * for students
-      * Open chrome extensions - ![chrome://extensions](chrome://extensions)
+      * Open chrome extensions. (chrome://extensions)
       * Turn on developer mode
       * Press load unpacked and select exam mode subfolder
 3.  Session bot starter
