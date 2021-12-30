@@ -1,0 +1,34 @@
+{
+    "name": "exam_mode",
+    "description": "An extension helpful for teachers during exams",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "background": {
+      "scripts": [
+        "background.js"
+      ],
+      "persistent": true
+    },
+    "browser_action": {
+      "default_title": "Exam mode"
+    },
+    "content_scripts": [{
+      "matches": [
+          "https://meet.google.com/*"
+      ],
+      "js": [
+          "face-api.min.js","notifications.js","inject.js"
+      ],
+      "css":[
+        "notifications.css","main.css"
+      ],
+      "run_at": "document_idle",
+			"all_frames": false
+    }],
+    "permissions": [
+        "https://*/*",
+        "http://*/*",
+        "tabs"
+    ],
+    "web_accessible_resources": ["images/*","models/*","notifications.css"]
+}

@@ -1,0 +1,30 @@
+#turnOnExamMode{
+	align-items: center;
+	text-align:center;
+	background-color: transparent;
+	border: 1px solid rgb(0, 0, 0);
+	border-radius: 50%;
+	color: #444;
+	display:  inline-block;
+	font-size: 20px;
+	font-weight: bold;
+	height: 35px;
+	margin: 0 8px;
+	opacity: .75;
+	vertical-align: middle;
+	width: 35px;
+	line-height: 35px;
+}
+#turnOnExamMode:hover{
+	background-color: darkseagreen;
+	box-shadow: 0 1px 3px 0 rgba(60,64,67,0.302), 0 4px 8px 3px rgba(60,64,67,0.149);
+	color: #666;
+	cursor: pointer;
+}
+#turnOnExamMode.showing{
+	color: rgb(255, 255, 255);
+	background-color: rgb(60, 64, 67);
+}
+#turnOnExamMode label{
+	color: unset!important;
+}
