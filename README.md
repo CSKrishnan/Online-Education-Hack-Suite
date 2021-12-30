@@ -2,6 +2,7 @@
 The main objective of this project is to add features to the online meeting platforms like Microsoft Teams and Google meet to help the teachers for effective teaching in online classes and to proctor the students during the remote examinations. 
 
 ### Block diagram
+<img src="https://github.com/CSKrishnan/Online-Education-Hack-Suite/blob/master/Screenshots/fig1.PNG" width="300" height="400">    <img src="https://github.com/CSKrishnan/Online-Education-Hack-Suite/blob/master/Screenshots/fig2.PNG" width="300" height="400">
 
 ### Requirements
 * face-api.js -  It is a deep learning library which is used to perform facial  detection and  recognition. The model ResNet-34 like architecture with which it computes feature vectors of size 128 called as face descriptor. 
@@ -36,7 +37,11 @@ The main objective of this project is to add features to the online meeting plat
     * clone the Session bot starter subfolder and run the application.
   
 ### Sample screenshot
- 
+<img src="https://github.com/CSKrishnan/Online-Education-Hack-Suite/blob/master/Screenshots/fig3.PNG" width="400" height="300">
+<img src="https://github.com/CSKrishnan/Online-Education-Hack-Suite/blob/master/Screenshots/fig5.PNG" width="400" height="300">
+<img src="https://github.com/CSKrishnan/Online-Education-Hack-Suite/blob/master/Screenshots/fig9.PNG" width="400" height="300">
+<img src="https://github.com/CSKrishnan/Online-Education-Hack-Suite/blob/master/Screenshots/fig11.PNG" width="400" height="300">
+
 ### References
 1.  Rishabh Karmakar. “Facial Attendance System Using MTCNN And Feature Mapping”, in International Journal of Engineering Applied Sciences and Technology,Vol. 5, Issue 4, 2020.
 2.   Istiak Ahmad, Fahad AlQurashi, Ehab Abozinadah, Rashid Mehmood. “A Novel Deep Learning-based Online Proctoring System using Face Recognition, Eye Blinking, and Object Detection Techniques'', in (IJACSA) International Journal of Advanced Computer Science and Applications, Vol. 12, No. 10, 2021.
